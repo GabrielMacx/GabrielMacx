@@ -1,4 +1,4 @@
-# 👨🏽‍💻 Gabriel Macêdo
+# 💻 Gabriel Macêdo
 
 **`Desenvolvedor FullStack`**
 
